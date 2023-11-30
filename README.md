@@ -1,6 +1,4 @@
-# youtube-downloader-no-gui-
-python based youtube downloader without gui using pytube
-
----feel free to use this code--
-<br></br>
-this program allows you to download videos from youtube
+# youtube downloader no gui
+this wan ken download yt vid one
+but need more improvement
+will work one it in the future
